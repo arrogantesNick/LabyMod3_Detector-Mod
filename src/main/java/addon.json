@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "Detector-Mod",
+  "mainClass": "de.nick.detector.DetectorMOD",
+  "description": "This is a detector mod for CWBW!",
+  "version": 1,
+  "author": "arrogantesNick",
+  "category": 1,
+  "icon": "http://i.imgur.com/AZcwsj0.png"
+}
